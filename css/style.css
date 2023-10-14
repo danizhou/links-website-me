@@ -20,11 +20,11 @@
   --image_height: 140px;
 
   /* You can change the colors of the title and description section by typing the color codes. */
-  --title_color: #fff;
-  --description_color: #fff;
+  --title_color: #000000;
+  --description_color: #000000;
 
   /* You can change the colors of social media icons by changing the color code. */
-  --svg_color: #fff;
+  --svg_color: #000000;
 
   /* You can change the background, text color and active color of the menu by changing the color codes. */
   --menu_background_color: #1d1e24;
@@ -42,9 +42,9 @@
   --textarea_link_text_color: #d7e04f;
 
   /* You can change the background, text color and active color of the footer area by changing the color codes. */
-  --footer_background_color: #ebc5d3e0;
-  --footer_text_color: #fff;
-  --footer_link_text_color: #f7b307;
+  --footer_background_color: #ffffffe0;
+  --footer_text_color: #000000;
+  --footer_link_text_color: #d8b733;
 }
 
 /* Basic Codes */
@@ -59,6 +59,7 @@ body {
   flex-direction: column;
   flex-wrap: wrap;
 }
+
 
 .flex_column_center {
   display: flex;
