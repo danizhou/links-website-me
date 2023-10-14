@@ -8,7 +8,7 @@
   --font_size: 16px;
 
   /* You can change the background color by typing the color code. (If you do not enter a background-image image, the background-color will be active.) */
-  --background_color: #000;
+  --background_color: #ffffff;
   --background_image: url("../img/wallpaper.png");
 
   /* You can change the frame thickness and color of the picture by typing the number of pixels and the color code. */
@@ -42,9 +42,9 @@
   --textarea_link_text_color: #d7e04f;
 
   /* You can change the background, text color and active color of the footer area by changing the color codes. */
-  --footer_background_color: #1d1e24;
+  --footer_background_color: #ebc5d3e0;
   --footer_text_color: #fff;
-  --footer_link_text_color: #d7e04f;
+  --footer_link_text_color: #f7b307;
 }
 
 /* Basic Codes */
